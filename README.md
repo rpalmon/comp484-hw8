@@ -1,5 +1,4 @@
-"# comp-484-hw7" 
+"# comp-484-hw8" 
 
-[https://rpalmon.github.io/comp484-hw7/](https://rpalmon.github.io/comp484-hw7/)
+https://rpalmon.github.io/comp484-hw8/
 
-"# comp484-hw8" 
