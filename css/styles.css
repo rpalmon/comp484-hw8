@@ -72,6 +72,23 @@ footer {
     display: inline-block;
 }
 
+.navbar {
+    background: #E7DECD;
+    margin-top: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar a {
+    color: #E7DECD;
+    background-color: #0A122A;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
 h3 {
     color: #804E49;
     font-size: 20px;
