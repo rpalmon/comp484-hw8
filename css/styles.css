@@ -138,6 +138,7 @@ p {
     padding: 20px;
     margin: 20px;
     border-radius: 5px;
+
 }
 
 
@@ -145,9 +146,30 @@ p {
 
 /* Education
 ------------------------------------*/
+/* 3. Add a background image to one of your resume sections.
+            a. Make use of the RGB and Alpha transparency to add a gradiant to your image. Some examples are shown in the lecture material.  
+ */
+
 .education {
     background: #FBFAF8;
     padding: 20px;
     margin: 20px;
     border-radius: 5px;
+    background-image: url('https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?semt=ais_rp_50_assets&w=740&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.education h2 {
+    color: #698F3F;
+}
+
+.education h3 {
+    color: #E7DECD;
+}
+
+.education p {
+    color: white
 }
